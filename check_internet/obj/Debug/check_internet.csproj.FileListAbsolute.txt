@@ -1,0 +1,8 @@
+F:\visual_2008\check_internet\check_internet\bin\Debug\check_internet.exe
+F:\visual_2008\check_internet\check_internet\bin\Debug\check_internet.pdb
+F:\visual_2008\check_internet\check_internet\obj\Debug\ResolveAssemblyReference.cache
+F:\visual_2008\check_internet\check_internet\obj\Debug\check_internet.Form1.resources
+F:\visual_2008\check_internet\check_internet\obj\Debug\check_internet.Properties.Resources.resources
+F:\visual_2008\check_internet\check_internet\obj\Debug\check_internet.csproj.GenerateResource.Cache
+F:\visual_2008\check_internet\check_internet\obj\Debug\check_internet.exe
+F:\visual_2008\check_internet\check_internet\obj\Debug\check_internet.pdb
